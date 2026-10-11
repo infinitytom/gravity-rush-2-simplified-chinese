@@ -1,0 +1,14 @@
+[
+  {
+    "archive": "Gravite2_Chunk0.psarc",
+    "original_size": 9973715711,
+    "header_size": 1550680,
+    "original_header_sha256": "0db125a4e49f2b99501818e59054d723d1c737eddca8b07fabd920333261d2b0"
+  },
+  {
+    "archive": "Gravite2_Patch_Chunk0.psarc",
+    "original_size": 517521344,
+    "header_size": 66074,
+    "original_header_sha256": "a3eca4069491d7e39988f0e8833a23bbf40f809b05a43d033a73aca1e8ad2edc"
+  }
+]
